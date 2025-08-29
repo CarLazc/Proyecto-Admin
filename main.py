@@ -22,11 +22,16 @@ sp_oauth = SpotifyOAuth(client_id=client_id,
 sp = spotipy.Spotify(auth_manager=sp_oauth)
 
 @app.route('/')
-def home():
+def authorization():
     if not sp_oauth.validate_token(cache_handler.get_cached_token()):
         auth_url = sp_oauth.get_authorize_url()
         return redirect(auth_url)
     return redirect(url_for('get_recently_played'))
+
+@app.route('/logout')
+def logout():
+    session.clear()
+    return redirect(url_for('home'))
 
 @app.route('/callback')
 def callback():
@@ -51,10 +56,6 @@ def get_recently_played():
     recently_played_html = '<br>'.join(f'{name}: {artist} ({genre})' for name, artist, genre in recently_played_tracks)
     return recently_played_html 
 
-@app.route('/logout')
-def logout():
-    session.clear()
-    return redirect(url_for('home'))
-
 if __name__ == "__main__":
+
     app.run(debug=True)
