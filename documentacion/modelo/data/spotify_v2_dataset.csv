@@ -1,0 +1,181 @@
+track_id,track_name,artist_name,artist_id,album_name,search_genre,popularity,explicit,duration_ms,artist_popularity,artist_followers,release_year,track_name_length,has_feat,has_parentheses,has_rock_keywords,has_pop_keywords,has_hip_hop_keywords,has_electronic_keywords,artist_genres,num_artist_genres,duration_minutes,is_recent,artist_tier
+3z8h0TU7ReDPLIbEnYhWZb,Bohemian Rhapsody,Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody (The Original Soundtrack),rock,73,0,354947,86,54853243,2018,17,0,0,0,0,0,0,"classic rock, rock, glam rock",3,5.915783333333334,0,high
+2x6iNna6wQexggFz8smJcB,Seventh Heaven,INOHA,0uoN6ea8SXzhV7WxyrvT1h,ALOHA INOHA,rock,73,0,234499,62,142627,2024,14,0,0,0,0,0,0,,0,3.908316666666667,1,medium
+6QAsrXPnMSXIbV0yEJHlEX,Nothing Else Matters - Remastered 2021,Metallica,2ye2Wgw4gimLv2eAKyk1NB,Metallica (Remastered Deluxe Box Set),rock,81,0,388733,86,31790017,2021,38,0,0,0,0,0,0,"metal, thrash metal, rock, heavy metal, hard rock",5,6.478883333333333,1,high
+5RBOcBpJXaNnHCGViJmYhh,The Perfect Girl,Mareux,7riQPkkGZBnTh9ve5qIhYo,The Perfect Girl,rock,75,0,194423,66,571397,2021,16,0,0,0,0,0,0,"darkwave, cold wave",2,3.2403833333333334,1,medium
+01MXkFA8sL7at6txavDErt,Making Love Out of Nothing at All,Air Supply,4xXCRXOfQKQ2gjWxNhNzYW,All Out Of Love,rock,75,0,341746,75,5230698,2018,33,0,0,0,1,0,0,soft rock,1,5.695766666666667,0,high
+2PnlsTsOTLE5jnBnNe2K0A,The Emptiness Machine,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,The Emptiness Machine,rock,78,1,190427,92,31308714,2024,21,0,0,0,0,0,0,"nu metal, rap metal, rock, alternative metal",4,3.173783333333333,1,high
+6THT788gESlEehya5KtiAo,Él No Lo Mató,El Haragán y Compañía,2NN9pzej9qFOOLBfRnmhIV,Él No Lo Mató,rock,53,0,278934,61,471508,2020,13,0,0,0,0,0,0,"mexican rock, rock en español, ska",3,4.6489,1,medium
+6TEftSkmWdTm1EpThnwqh6,Wrecked,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Mercury - Acts 1 & 2,rock,71,0,244004,89,58105459,2022,7,0,0,0,0,0,0,,0,4.0667333333333335,1,high
+1H4Y9uW4N0LsxJUz0VnaPJ,Just Pretend,Bad Omens,3Ri4H12KFyu98LMjSoij5V,THE DEATH OF PEACE OF MIND,rock,77,0,204676,77,1902106,2022,12,0,0,0,0,0,0,metalcore,1,3.4112666666666667,1,high
+3gy21TwRSP40aUMwcY7Rtq,Navigating,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,Clancy,rock,68,0,223106,87,25671506,2024,10,0,0,0,0,0,0,,0,3.7184333333333335,1,high
+1BLOVHYYlH4JUHQGcpt75R,Ode To The Mets,The Strokes,0epOFNiUfyON9EYx7Tpr6V,The New Abnormal,rock,69,1,351786,78,6401421,2020,15,0,0,0,0,0,0,"garage rock, indie rock, alternative rock",3,5.8631,1,high
+6RZmhpvukfyeSURhf4kZ0d,Is It True,Tame Impala,5INjqkS1o8h1imAzPqGZBb,The Slow Rush,rock,74,0,239266,84,9238370,2020,10,0,0,0,0,0,0,"neo-psychedelic, indie",2,3.9877666666666665,1,high
+2nG54Y4a3sH9YpfxMolOyi,Shy Away,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,Scaled And Icy,rock,68,0,175044,87,25671506,2021,8,0,0,0,0,0,0,,0,2.9174,1,high
+23OXdR7YuUBVWh5hSnYJau,Chlorine,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,Trench,rock,75,0,324466,87,25671506,2018,8,0,0,0,0,0,0,,0,5.407766666666666,0,high
+3DwQ7AH3xGD9h65ezslm6q,Enter Sandman - Remastered 2021,Metallica,2ye2Wgw4gimLv2eAKyk1NB,Metallica (Remastered Deluxe Box Set),rock,83,0,331560,86,31790017,2021,31,0,0,0,0,0,0,"metal, thrash metal, rock, heavy metal, hard rock",5,5.526,1,high
+5E3T0hZ77NXXUtXJocRIOc,El Mayor de los Ranas,Victor Valverde,20nJFshDG1OYH7Qp9K0TXf,El Mayor de los Ranas,pop,78,1,172059,73,331943,2024,21,0,0,0,0,0,0,"corrido, electro corridos, corridos tumbados, corridos bélicos, dembow belico",5,2.86765,1,high
+0hfXHqWhOpbR9YQmQojDMN,gervonta,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,gervonta,pop,74,1,167367,90,23345450,2024,8,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño",7,2.78945,1,high
+127UT7AiWflJwjXWUBBVTQ,O Me Voy O Te Vas,Natanael Cano,0elWFr7TW8piilVRYJUe4P,O Me Voy O Te Vas,pop,74,0,242133,89,20890734,2023,17,0,0,0,0,0,0,"corridos tumbados, corrido, corridos bélicos, sierreño, sad sierreño",8,4.03555,1,high
+4t46soaqA758rbukTO5pp1,Mi Bello Angel,Natanael Cano,0elWFr7TW8piilVRYJUe4P,Nata Montana,pop,75,1,188666,89,20890734,2023,14,0,0,0,0,0,0,"corridos tumbados, corrido, corridos bélicos, sierreño, sad sierreño",8,3.144433333333333,1,high
+2JJdNXpiCQoAeLQvVMpIEh,Yo Vengo De La Nada,Juan Freer,0a9vSkyCTnB36E2iZbRVtl,Yo Vengo De La Nada,pop,76,0,156807,66,115145,2024,19,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, sierreño",4,2.61345,1,medium
+3BssiKHkHy0zXZCj1T8TcJ,INMORTAL,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,Pa las Baby's Y Belikeada,pop,76,1,137598,94,18590831,2023,8,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño",8,2.2933,1,high
+4Ndjd6DhKIC5IPoBIrMQuX,Ese Vato No Te Queda,Carín León,66ihevNkSYNzRAl44dx6jJ,Ese Vato No Te Queda,pop,77,1,198607,86,17042293,2024,20,0,0,0,0,0,0,"banda, norteño, sierreño, corrido, ranchera",7,3.3101166666666666,1,high
+4Nf5EZ40JenjMUKXOiyRU5,NUEVA VIDA,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,GÉNESIS,pop,80,1,190680,90,23345450,2023,10,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño",7,3.178,1,high
+1PREzVLuDT6PSE9sej4wnV,COQUETA,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,MALA MÍA,pop,87,0,241648,94,18590831,2024,7,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño",8,4.027466666666666,1,high
+3w1h7uNU1Dfk2tOaHiIGat,PERO NO TE ENAMORES,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,PERO NO TE ENAMORES,pop,78,1,183846,94,18590831,2024,19,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño",8,3.0641,1,high
+0NsGFMIo2aNbAkJu48ndaf,Morena Canela,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,Que Sigan Llegando Las Pacas (Extended),pop,76,1,178336,81,4877005,2024,13,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana",4,2.9722666666666666,1,high
+33Nj9AdncSmHbCN3QeSZTL,Volver Al Futuro,Oscar Maydon,3l9G1G9MxH6DaRhwLklaf5,Volver Al Futuro,pop,74,0,204102,86,6584737,2024,16,0,0,0,0,0,0,"corridos tumbados, corrido, corridos bélicos, electro corridos, dembow belico",6,3.4017,1,high
+0lbDzTINTToToBpkrnQT2t,UNA CERVEZA,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,Pa las Baby's Y Belikeada,pop,78,1,279275,94,18590831,2023,11,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño",8,4.654583333333333,1,high
+7585wxMp2e3IhBq3tJAXgw,SUIZA,Calle 24,6dLuQ5qXxIuWc5urxfIiZR,ONDEADO$,pop,86,1,114913,80,2681486,2024,5,0,0,0,0,0,0,"corrido, corridos tumbados, corridos bélicos, electro corridos, sad sierreño",5,1.9152166666666666,1,high
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,pop,94,0,210373,94,117144176,2024,18,1,0,0,0,1,0,,0,3.5062166666666665,1,high
+77DRzu7ERs0TX3roZcre7Q,euphoria,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,euphoria,hip-hop,75,1,383639,93,43865887,2024,8,0,0,0,0,0,0,"hip hop, west coast hip hop",2,6.393983333333333,1,high
+0JKGe340YJwfDrpXqPQ8sw,Daechwita,Agust D,5RmQ8k4l3HZ8JoPb4mNsML,D-2,hip-hop,74,1,225668,77,15402749,2020,9,0,0,0,0,0,0,"k-pop, k-rap",2,3.7611333333333334,1,high
+5Gt9bxniM1SxN61yRzRhXL,United In Grief,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,hip-hop,74,1,255377,93,43865887,2022,15,0,0,0,0,0,0,"hip hop, west coast hip hop",2,4.256283333333333,1,high
+4pcafPzLDSqQktqSpxHL3E,THUNDER Y LIGHTNING,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,hip-hop,70,1,217133,99,100650961,2023,19,0,0,0,0,0,0,"reggaeton, trap latino, urbano latino, latin",4,3.6188833333333332,1,high
+3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake,3TVXtAsR1Inumwj472S9r4,"Honestly, Nevermind",hip-hop,79,1,218364,99,101820527,2022,29,1,1,0,0,1,0,rap,1,3.6394,1,high
+3QFInJAm9eyaho5vBzxInN,family ties (with Kendrick Lamar),Baby Keem,5SXuuuRpukkTvsLuUknva1,The Melodic Blue,hip-hop,77,1,252262,76,3084049,2021,33,0,1,0,0,0,0,,0,4.204366666666667,1,high
+2HYFX63wP3otVIvopRS99Z,Houdini,Eminem,7dGJo4pcD2V6oG8kP0tJRR,Houdini,hip-hop,76,1,227239,92,103579534,2024,7,0,0,0,0,0,0,"rap, hip hop",2,3.787316666666667,1,high
+0nj9Bq5sHDiTxSHunhgkFb,squabble up,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,hip-hop,80,1,157992,93,43865887,2024,11,0,0,0,0,0,0,"hip hop, west coast hip hop",2,2.6332,1,high
+0OA00aPt3BV10qeMIs3meW,Big Dawgs,Hanumankind,4nVa6XlBFlIkF6msW57PHp,Big Dawgs,hip-hop,77,1,190666,70,861233,2024,9,0,0,0,0,0,0,"malayalam hip hop, desi hip hop",2,3.177766666666667,1,medium
+5ER5Fr1Cv7N3chJhAapt66,Celine (with Kidd Keo),Ghost Killer Track,37S0GFsBW73uqxGXNFeADJ,Celine (with Kidd Keo),hip-hop,65,0,176017,65,43682,2023,22,0,1,0,0,0,0,,0,2.9336166666666665,1,medium
+2tudvzsrR56uom6smgOcSf,Like That,Future,1RyvyyTE3xzB2ZywiAwp0i,WE DON'T TRUST YOU,hip-hop,82,1,267706,92,22387913,2024,9,0,0,0,0,0,0,rap,1,4.461766666666667,1,high
+6wsqVwoiVH2kde4k4KKAFU,I KNOW ?,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,hip-hop,79,1,211582,94,40575654,2023,8,0,0,0,0,0,0,rap,1,3.5263666666666666,1,high
+16iLGYXMiLUhvqTEIu4pKB,3 PECADOS DESPUES…,Milo j,19HM5j0ULGSmEoRcrSe5x3,166,hip-hop,72,1,118558,82,8419258,2024,18,0,0,0,0,0,0,argentine trap,1,1.9759666666666666,1,high
+52eIcoLUM25zbQupAZYoFh,redrum,21 Savage,1URnnhqYAYcrqrcwql10ft,american dream,hip-hop,78,1,270697,88,23484711,2024,6,0,0,0,0,0,0,,0,4.511616666666667,1,high
+1MKsphr9WmAkAGameksHDu,Noche de los Dos,Murder,5tdug7wnpNPEAOesKa1Aw1,Noche de los Dos,hip-hop,64,1,162615,57,154163,2021,16,0,0,0,0,0,0,latin hip hop,1,2.71025,1,medium
+5VP1yXviUwA0KA0ewit5pe,California and Me,Laufey,7gW0r5CkdEUMm42w9XpyZO,Bewitched,jazz,61,0,216306,87,8107826,2023,17,0,0,0,0,0,0,,0,3.6051,1,high
+78Uo6eJIPkVo4Xw848NCN7,Time,Olivia Dean,00x1fYSGhdqScXBRpSj3DW,Time,jazz,69,0,224000,86,1016085,2024,4,0,0,0,0,0,0,pop soul,1,3.7333333333333334,1,high
+1QELw50Dl95LusF6uOkDqk,La vie en rose (feat. Cécile McLorin Salvant),Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,love (Deluxe Edition),jazz,53,0,229963,76,6874334,2018,45,1,1,0,0,1,0,christmas,1,3.8327166666666668,0,high
+0OPZaMwlqEhekiWzLinukT,Still you are,Adam Gallo,48kyKKrYpWSiNSEyGXmCfo,Still you are,jazz,53,0,171124,38,254,2024,13,0,0,0,0,0,0,,0,2.8520666666666665,1,low
+7bqlSXHgdCfxMMtbPqn2p6,They Didn't Believe Me,Beegie Adair,5gYIhpLwCYoxh3V8KANZpI,Best Of Beegie Adair: Jazz Piano Performances,jazz,48,0,211293,57,55254,2021,22,0,0,0,0,0,0,"jazz, christmas",2,3.52155,1,medium
+5c18Kxa9UJdQMdCI483GeK,Celestial:,Lyvion,1kaa4VGHlpI0UJePNOVRZs,Dreams,jazz,49,0,129166,45,968,2024,10,0,0,0,0,0,0,,0,2.1527666666666665,1,medium
+3KQcjCQ5HytLSegg5QK9G4,Echo Sax End,Caleb Arredondo,48X3AlBcfBle0OsLFRIOrl,Echo Sax End,jazz,59,0,77205,52,113993,2024,12,0,0,0,0,0,0,,0,1.28675,1,medium
+3DFKG13oQXpdRh6ptZKnMN,Night Birds (7” Version),Shakatak,5FFtX4eFjh2vZQEl31d2XJ,All Around the World (40th Anniversary Edition),jazz,45,0,263386,48,92595,2020,24,0,1,0,0,0,0,"smooth jazz, jazz funk, post-disco, jazz fusion",4,4.389766666666667,1,medium
+55A5X28Hd8AvSAYKx6kcND,Blue Moon,Flora Martínez,7gjr06Lie1BDJuefW3v9YQ,Moon Lover,jazz,55,0,180000,56,70270,2019,9,0,0,0,0,0,0,"bossa nova, bolero, vocal jazz",3,3.0,0,medium
+5jkJkA8Dpu9a60s0LYfW2I,We Three,Cory Weeds,0YB9WHBn7xTEQsvcFZRUdy,Just Coolin',jazz,55,0,661773,43,9167,2022,8,0,0,0,0,0,0,jazz,1,11.02955,1,medium
+30uTMJTg17ZXRwPKirbPHK,Thinking out Loud,Rio Branco,3n4PootMSIDqpViSB9SA1D,Jazz Covers (Vol. 1),jazz,49,0,270273,66,13991,2022,17,0,0,0,0,0,0,"bossa nova, lounge",2,4.50455,1,medium
+147s41rcjyS8finOFE2vsD,I'm Yours,Changes,1sI1mmOgN7gtafSNe2po2R,I'm Yours,jazz,52,0,214439,47,1639,2022,9,0,0,0,0,0,0,"bossa nova, smooth jazz",2,3.5739833333333335,1,medium
+33SawFo7Ld2TcTlRi6gmRu,Coffee & Jazz,Cafe Music BGM channel,3yKoHgjtyenCOIRaD2Gghu,Coffee & Jazz,jazz,55,0,186527,71,279012,2018,13,0,0,0,0,0,0,"jazz, bossa nova",2,3.1087833333333332,0,high
+26wdJawEPMlPypYII7qR7f,Dawn in LA.,Bolden.,4CxK8Xr9IqYUzhTLhdSfp5,Dawn in LA.,jazz,57,0,163333,59,48677,2024,11,0,0,0,0,0,0,"jazz house, jazz",2,2.7222166666666667,1,medium
+2VgzITxiBNDy3515oJkLgy,In Your Arms,Noah Henderson,4MEyaNwWOgwNnjTAgyttao,In Your Arms,jazz,54,0,113500,39,111,2024,12,0,0,0,0,0,0,,0,1.8916666666666666,1,low
+1ElySIlHwm1HX7sUjAZZnp,Hot Blooded,New Constellations,5WF5jtgP0H31QTl5g4WxW9,Hot Blooded,electronic,74,0,287000,61,64102,2021,11,0,0,0,0,0,0,,0,4.783333333333333,1,medium
+5RBOcBpJXaNnHCGViJmYhh,The Perfect Girl,Mareux,7riQPkkGZBnTh9ve5qIhYo,The Perfect Girl,electronic,75,0,194423,66,571397,2021,16,0,0,0,0,0,0,"darkwave, cold wave",2,3.2403833333333334,1,medium
+4o0LyB69tylqDG6eTGhmig,Fire for You,Cannons,7FtCyCJCJaxabYO7Uyda5B,Shadows,electronic,73,0,231825,64,440817,2019,12,0,0,0,0,0,0,,0,3.86375,0,medium
+5N5k9nd479b1xpDZ4usjrg,Promises (with Sam Smith),Calvin Harris,7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),electronic,70,0,213309,89,23082510,2018,25,0,1,0,0,0,0,edm,1,3.55515,0,high
+6UU24wuWgGwuSBAxDH866Z,Ma Vie (feat. Yay),Kidd Keo,0VZrPa7mWAYXH4CwmYk8Km,Rockport Espacial,electronic,63,1,233300,70,2996435,2020,18,1,1,0,0,1,0,"trap, argentine trap",2,3.888333333333333,1,medium
+6ho0GyrWZN3mhi9zVRW7xi,Losing It,FISHER,1VJ0briNOlXRtJUAzoUJdt,Losing It,electronic,73,0,248035,79,1168190,2018,9,0,0,0,0,0,0,"tech house, house",2,4.133916666666667,0,high
+4ZzxVQZcZWcLjfiOA3hRH8,CORA DE HIELO,RØZ,0aULg7LximLNhI6lLzxcXI,CORA DE HIELO,electronic,73,0,164769,66,99863,2024,13,0,0,0,0,0,0,electro corridos,1,2.74615,1,medium
+20on25jryn53hWghthWWW3,Do It To It,ACRAZE,4pnp4w9g30yLfVIAFnZMRd,Do It To It,electronic,76,0,157890,65,154611,2021,11,0,0,0,0,0,0,tech house,1,2.6315,1,medium
+0Dl00EZBJHkkdsSZIBK8Sb,Baila Conmigo (feat. Kelly Ruiz),Dayvi,2TWBei99x2tV70bdYbWdAf,Baila Conmigo (Willy William Remix) (feat. Kelly Ruiz),electronic,66,0,189817,55,57429,2019,32,1,1,0,0,1,0,guaracha,1,3.1636166666666665,0,medium
+3nEHrvNNtgLv9rneTAYVr4,Heaven Takes You Home (feat. Connie Constance),Swedish House Mafia,1h6Cn3P4NGzXbaXidqURXs,Paradise Again,electronic,77,0,214071,80,3932818,2022,46,1,1,0,0,1,0,edm,1,3.56785,1,high
+2JIzOc3HHo4MhiyZzhpBUV,Automotivo Bibi Fogosa,Bibi Babydoll,6R26kGib2ubbZJMh7kKVGV,Automotivo Bibi Fogosa,electronic,73,0,129798,68,403457,2023,22,0,0,0,0,0,0,"phonk, brazilian phonk",2,2.1633,1,medium
+7m7MRLSvZqGfIIlEX3VabR,Bogota,Nico Parga,1ah3rkTMCdKDGtshxvCUyo,Bogota,electronic,63,0,325176,58,41500,2023,6,0,0,0,0,0,0,"guaracha, exotica, afro house",3,5.4196,1,medium
+09CnYHiZ5jGT1wr1TXJ9Zt,Thank You (Not So Bad),Dimitri Vegas & Like Mike,73jBynjsVtofjRpdpRAJGk,Thank You (Not So Bad),electronic,82,0,140000,75,3579666,2023,22,0,1,0,0,0,0,"big room, electronica, edm",3,2.3333333333333335,1,high
+3Ua9fZLumeONPtLnkkUHbI,La Muñequita Fea,Los Tepoz,1yu6r3vgWWDpQLOVHtM8pW,El Angel Del Amor,electronic,62,0,268460,58,93011,2021,16,0,0,0,0,0,0,"cumbia sonidera, cumbia, electrocumbia",3,4.474333333333333,1,medium
+4MSj19TwYBLgDFj3ddEeco,Black Friday (pretty like the sun),Lost Frequencies,7f5Zgnp2spUuuzKplmRkt7,Black Friday (pretty like the sun),electronic,82,0,145599,80,3086153,2024,34,0,1,0,0,0,0,tropical house,1,2.42665,1,high
+4Sb8neYCkT7lyMIo2kOOEC,Thinkin’ Bout Me,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,One Thing At A Time,country,80,0,177387,94,13686775,2023,16,0,0,0,0,0,0,country,1,2.95645,1,high
+0IRZwSCWFdT5D8hNCXHzZX,More Than My Hometown,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Dangerous: The Double Album,country,78,0,216573,94,13686775,2021,21,0,0,0,0,0,0,country,1,3.60955,1,high
+4EuaDcxHmHKS6gZ5iuGba0,Joy Of My Life,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,Starting Over,country,75,0,274520,85,8886706,2020,14,0,0,0,0,0,0,"country, outlaw country",2,4.575333333333333,1,high
+1HbzxLqpNVPdiBXvpC7Ovb,Wondering Why,The Red Clay Strays,6IKlXZEFOvk9itrP1s0knJ,Moment of Truth,country,82,0,232917,75,1060051,2022,13,0,0,0,0,0,0,country,1,3.88195,1,high
+7aEtlGHoiPAfRB084NiDmx,Beer Never Broke My Heart,Luke Combs,718COspgdWOnwOFpJHRZHS,What You See Is What You Get,country,76,0,186733,87,13224393,2019,25,0,0,0,1,0,0,country,1,3.112216666666667,0,high
+0gucUyFMFRMlUiVn9US4YX,Losers (Feat. Jelly Roll),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,country,71,0,209038,90,47541132,2024,25,1,1,0,0,1,0,,0,3.483966666666667,1,high
+2A22iI0x4EYAVXNpKPhNEM,weren't for the wind,Ella Langley,6BRxQ8cD3eqnrVj6WKDok8,still hungover,country,80,0,193666,79,611886,2024,20,0,0,0,0,0,0,country,1,3.2277666666666667,1,high
+4t43d4WVhoUU9FZTq8tZmL,Love Me Back,Max McNown,340PS4ZcZ4UCBgyrXzEjcp,Wandering (Love Me Back),country,75,0,200785,77,665493,2024,12,0,0,0,1,0,0,,0,3.346416666666667,1,high
+0llPOBVoJYDAtdmVlNE41A,Liar,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,Beautifully Broken,country,77,0,204933,84,5958897,2024,4,0,0,0,0,0,0,"country hip hop, country",2,3.41555,1,high
+0O5DPkLlre5yNwH6Sqm2dD,Cold,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,Cold,country,66,0,309853,85,8886706,2020,4,0,0,0,0,0,0,"country, outlaw country",2,5.1642166666666665,1,high
+0DM63CJEklNPKu6kHGyuEl,Yours,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,country,64,0,199438,90,47541132,2024,5,0,0,0,0,0,0,,0,3.3239666666666667,1,high
+58FbmtiyAlFBqFr8EorsSr,7 Summers,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Dangerous: The Double Album,country,78,0,210506,94,13686775,2021,9,0,0,0,0,0,0,country,1,3.5084333333333335,1,high
+0WiyWiJDkNCyGNqkv7NByy,Chasin' You,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,If I Know Me,country,80,0,205453,94,13686775,2018,11,0,0,0,0,0,0,country,1,3.4242166666666667,0,high
+1KZG1H1OCugGqIRmk1wF9m,Indigo (feat. Avery Anna),Sam Barber,08GfvCW09pv2QP4y9sle2a,Restless Mind,country,83,0,286634,79,824140,2024,25,1,1,0,0,1,0,country,1,4.777233333333333,1,high
+3t6gUcGYLrUuqwpXjOFWQc,I Never Lie,Zach Top,4FGPzWzgjURDNT7JQ8pYgH,Cold Beer & Country Music,country,81,0,224906,77,698956,2024,11,0,0,0,0,0,0,"country, honky tonk",2,3.7484333333333333,1,high
+6B8pYtoS3XHrc821hExWf6,Tudo Vai Dar Certo,Natiruts,4PhdYoQGH8s1xee81dqQOO,Tudo Vai Dar Certo,reggae,66,0,240293,71,3574286,2020,18,0,0,0,0,0,0,"reggae, mpb, roots reggae",3,4.004883333333333,1,high
+3qXaAdVOZMZ7XWxBEZ7fil,En el Seno del Amor,Dread Mar I,1aw0Cdl1DIrtUrUA6fGbAR,En el Seno del Amor,reggae,52,0,226640,74,2971376,2018,19,0,0,0,0,0,0,"spanish-language reggae, reggae",2,3.7773333333333334,0,high
+7EeZMKsgrkPOiyeJWZgagI,Dançalao,Jombriel,3Y9A8EQQtWU8RStiTlzErv,Dançalao,reggae,60,0,154845,74,635529,2024,8,0,0,0,0,0,0,"salsa choke, rkt",2,2.58075,1,high
+6AcBXYtHMBB0tH2o4lti6U,Miss Independent,Eichem,7wqVyRmXhkLoe0CAMPtHMC,Miss Independent,reggae,60,0,198500,49,17741,2018,16,0,0,0,0,0,0,dancehall,1,3.308333333333333,0,medium
+5lEWyaVTW8ynLaKo0Xc5sK,Jaque al Rey,Ska-P,2fiiGUBgPsIKDCE0bTthnl,Game Over,reggae,50,1,224946,62,941470,2018,12,0,0,0,0,0,0,"ska, ska punk, mexican ska",3,3.7491,0,medium
+1iy127mskdnMF5mC5kicFF,Caney,Rawayana,2AbQwU2cuEGfD465wCXlg2,Caney,reggae,53,0,230186,71,1014856,2021,5,0,0,0,0,0,0,"spanish-language reggae, reggae",2,3.8364333333333334,1,high
+7K7tKqnRzLoEQdquvGzZ6n,Te Prefiero,Ke Personajes,06Q5VlSAku57lFzyME3HrM,Te Prefiero,reggae,54,0,182384,76,4468831,2024,11,0,0,0,0,0,0,"cumbia, cuarteto",2,3.0397333333333334,1,high
+3vY4PoM0YudogsXe4dSncv,Cypher #5 (Reggae Cypher),Pure Negga,1F23hhbmyCMBq3BadxKNhk,Cypher #5 (Reggae Cypher),reggae,50,1,564000,62,517083,2024,25,0,1,0,0,0,0,"spanish-language reggae, reggae",2,9.4,1,medium
+1Iy4dJWborISHY9FHWGKPD,Binikini,Rawayana,2AbQwU2cuEGfD465wCXlg2,Binikini,reggae,54,0,183253,71,1014856,2023,8,0,0,0,0,0,0,"spanish-language reggae, reggae",2,3.0542166666666666,1,high
+56m8Wv3qRBfwLuO08GtfHs,Like Glue,Sean Paul,3Isy6kedDrgPYoTS1dazA9,Dutty Rock (20th Anniversary),reggae,66,0,232506,85,5235986,2022,9,0,0,0,0,0,0,dancehall,1,3.8751,1,high
+1rZQzXPYZxPv6AjfCz4oBP,Colores,Ska-P,2fiiGUBgPsIKDCE0bTthnl,Game Over,reggae,49,1,221200,62,941470,2018,7,0,0,0,0,0,0,"ska, ska punk, mexican ska",3,3.6866666666666665,0,medium
+4B7SpIO8nXOzz8I8tkovqW,Todo Lo Que Se Fue,Dread Mar I,1aw0Cdl1DIrtUrUA6fGbAR,Todo Lo Que Se Fue,reggae,51,0,201021,74,2971376,2020,18,0,0,0,0,0,0,"spanish-language reggae, reggae",2,3.35035,1,high
+0VzBKgimNRMauaqzT2rEnS,Go Down Deh (feat. Sean Paul & Shaggy),Spice,0wEvWMQRqaXcgnrZv6KtyL,Go Down Deh (feat. Sean Paul & Shaggy),reggae,68,0,154151,65,579382,2021,38,1,1,0,0,1,0,"dancehall, soca, shatta, ragga",4,2.569183333333333,1,medium
+60c5SSCLMt13B27d6Df4dP,Te Creí,Greeicy,5dbaLmK5SHLLg8Z4CcTJpX,La Carta,reggae,56,0,242413,74,7689511,2022,7,0,0,0,0,0,0,"colombian pop, pop urbano",2,4.040216666666667,1,high
+6GXtjEpfXTFECdmGChpkUi,Vacation,Dirty Heads,6GkJh85o22LfD2vgL9DP6f,SWIM TEAM (Special Edition),reggae,66,1,209721,66,877578,2018,8,0,0,0,0,0,0,"reggae rock, reggae",2,3.49535,0,medium
+5LSpjFlbV67DeU98OYem0X,Carolina,Sons of Legion,4WBCjNjq0MGPsvcXyOPWKW,Carolina,blues,60,0,271794,64,245142,2024,8,0,0,0,0,0,0,,0,4.5299,1,medium
+2VEcBE4kcLIMNt3Xu5KxwD,In My Dreams,Gary Moore,23wr9RJZg0PmYvVFyNkQ4j,How Blue Can You Get,blues,49,0,342080,62,803701,2021,12,0,0,0,0,0,0,"blues, blues rock",2,5.701333333333333,1,medium
+0oyfDe0903Cn8UOthKS8kp,Mama,Cam Cole,0US6t3wOzabccOupxTHl2S,I See,blues,58,0,147026,51,138710,2019,4,0,0,0,0,0,0,"blues rock, modern blues",2,2.4504333333333332,0,medium
+5hqWLWK1WuNsUDJJBNwJv8,We Are The World - Live,Luciano Pavarotti,0Y8KmFkKOgJybpVobn1onU,B.B. King - Featuring,blues,46,0,350866,66,1092824,2024,23,0,0,0,0,0,0,"opera, classical, canzone napoletana",3,5.847766666666667,1,medium
+2RONhC3MSnfZx3P7b3csF5,A Change Is Gonna Come,Brian Owens,7H5TzLxLTOrQuBuVzvll6d,A Change Is Gonna Come,blues,48,0,276609,37,25959,2018,22,0,0,0,0,0,0,retro soul,1,4.61015,0,low
+6eoilldRAmDz7IOEvFizIW,Make It Rain,Foy Vance,4bUqnkrDrb4f7rqmDR9yDu,From Muscle Shoals,blues,50,0,291666,54,269173,2019,12,0,0,0,0,0,0,,0,4.8611,0,medium
+6kIm6NejP3hxeccPGTr1NY,Minnie The Moocher,Brothers Moving,1wpWvJF6BDdPAkhLbDGKp9,Minnie The Moocher,blues,54,0,190376,46,180393,2021,18,0,0,0,0,0,0,,0,3.1729333333333334,1,medium
+1zCNzZTRsou6TFpe8nsmnK,Don't Let Me Go,The Black Keys,7mnBLXK823vNxN3UWB7Gfz,Ohio Players,blues,47,0,154512,74,4136173,2024,15,0,0,0,0,0,0,"blues rock, garage rock, modern blues, rock",4,2.5752,1,high
+5MKtQtz40BsJZvqkS5FmC6,Shakin' Off The Rust,The Blue Stones,5VPCIIfZPK8KPsgz4jmOEC,Hidden Gems,blues,56,0,222936,57,233326,2021,20,0,0,0,0,0,0,blues rock,1,3.7156,1,medium
+1Y7Avr0l4vLpBsJQWBgyIc,Shake a Tail Feather,London Theatre Orchestra & Cast,2ZPXbNAQIgBkQxukGDNgsf,The Blues Brothers,blues,37,0,182306,36,4418,2019,20,1,0,0,0,1,0,musicals,1,3.0384333333333333,0,low
+23yTIWmlDPv9HHnwwzCNks,New Age Blues,Cam Cole,0US6t3wOzabccOupxTHl2S,I See,blues,55,0,257351,51,138710,2019,13,0,0,0,0,0,0,"blues rock, modern blues",2,4.289183333333333,0,medium
+6s8T5Li337o42fCwduuTyn,Sweet Love,The Vintage Explosion,3a48yEJThFMOCvgcCwOyyD,Saturday Night,blues,54,0,212373,48,25743,2024,10,0,0,0,1,0,0,"soul blues, retro soul",2,3.53955,1,medium
+1fazhEhlTMMzJVzEk15u16,Late Night Blues,Gary Tunes,6gYw99xVyNWM2ocOODaEWZ,Late Night Blues,blues,45,0,218345,47,4276,2023,16,0,0,0,0,0,0,blues,1,3.6390833333333332,1,medium
+6tpiX3XCr5T4LdnLgRNIoY,Blue Whiskey,Taylor Dean,0ROWWgxSO7ltEw9pMeV33o,Blue Whiskey,blues,55,0,196626,40,1718,2019,12,0,0,0,0,0,0,,0,3.2771,0,low
+1rnYNAJPAb586NhetosdNW,Save Me,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,Self Medicated,blues,70,0,240722,84,5958897,2020,7,0,0,0,0,0,0,"country hip hop, country",2,4.012033333333333,1,high
+0Y7NqQ9RNoHZHDTeDS4UnO,me va a costar,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,me va a costar,folk,72,0,228266,77,8829065,2023,14,0,0,0,0,0,0,"latin folk, mexican indie",2,3.8044333333333333,1,high
+7gSZkeBr9Koc9Rfm3pp769,Sweet Heat Lightning,Gregory Alan Isakov,5sXaGoRLSpd7VeyZrLkKwt,Appaloosa Bones,folk,77,0,286120,74,1129378,2023,20,0,0,0,0,0,0,"indie folk, folk, folk pop",3,4.768666666666666,1,high
+2jKgFHQJHAVfBucrRyb9Jm,Paris Texas,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,Paris Texas,folk,56,0,395466,77,8829065,2022,11,0,0,0,0,0,0,"latin folk, mexican indie",2,6.5911,1,high
+4PwWESSlTwzvw9B7bmtTLS,anything,Adrianne Lenker,4aKWmkWAKviFlyvHYPTNQY,songs,folk,80,0,202047,76,1385823,2020,8,0,0,0,0,0,0,,0,3.36745,1,high
+71Mj2THXRicZhTFGzln3al,lo que pienso,Ed Maverick,3JSSjGYcIkgsrz7892CelT,Transiciones,folk,55,0,311280,72,3770822,2019,13,0,0,0,0,0,0,"mexican indie, latin folk",2,5.188,0,high
+3pSjS1IJJMQ6MhVIPiE0Om,La Llorona,Ángela Aguilar,3abT87tqQ4Q5PA5nw6CYyH,PRIMERO SOY MEXICANA,folk,58,0,490762,70,1256231,2018,10,0,0,0,0,0,0,"mariachi, ranchera, banda, música mexicana",4,8.179366666666667,0,medium
+6XuvR6CAfIggnWzqtL0Vez,En El Próximo Big Bang,Wuicho kun,5WXiEvcwEw6bgiPBg7Eo2E,En El Próximo Big Bang,folk,65,0,183243,56,98966,2024,22,0,0,0,0,0,0,latin folk,1,3.05405,1,medium
+6sycT6FiSI1YSERI9279qY,siente más,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,Paris Texas,folk,56,0,240000,77,8829065,2022,10,0,0,0,0,0,0,"latin folk, mexican indie",2,4.0,1,high
+2XcWZWstxIKrpjrpPLCw5m,"mantra II,",Ed Maverick,3JSSjGYcIkgsrz7892CelT,eduardo,folk,55,0,244973,72,3770822,2021,10,0,0,0,0,0,0,"mexican indie, latin folk",2,4.082883333333333,1,high
+6plO0gM4tUvRC9TKFGIuaN,Wru - (donde estás),Ed Maverick,3JSSjGYcIkgsrz7892CelT,mix pa llorar en tu cuarto,folk,57,1,240306,72,3770822,2018,19,0,1,0,0,0,0,"mexican indie, latin folk",2,4.0051,0,high
+0L6mynDwbVc69EEpOk2XSB,no hay problema - extraído de LA NUBE EN EL JARDÍN,Ed Maverick,3JSSjGYcIkgsrz7892CelT,no hay problema (extraído de LA NUBE EN EL JARDÍN),folk,59,0,306858,72,3770822,2024,50,0,0,0,0,0,0,"mexican indie, latin folk",2,5.1143,1,high
+7axrsgYy5Zf4UkpZ4FrKba,Toda Esta Ciudad,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,Toda Esta Ciudad,folk,61,0,320603,77,8829065,2021,16,0,0,0,0,0,0,"latin folk, mexican indie",2,5.343383333333334,1,high
+6AFzDSEeYFltOmGf9SrCst,nunca te supe cuidar,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,Paris Texas,folk,56,0,292266,77,8829065,2022,20,0,0,0,0,0,0,"latin folk, mexican indie",2,4.8711,1,high
+6Zy0ITa16EjCAbbGuPzdRi,Mujer Distante,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,Hasta el Fin Del Mundo,folk,63,0,253160,77,8829065,2019,14,0,0,0,0,0,0,"latin folk, mexican indie",2,4.219333333333333,0,high
+455RH9fblZ8Onelsd9D7K7,Abrazado a Ti,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,San Lucas,folk,73,0,215480,77,8829065,2019,13,0,0,0,0,0,0,"latin folk, mexican indie",2,3.5913333333333335,0,high
+5Y35SjAfXjjG0sFQ3KOxmm,Nobody Gets Me,SZA,7tYKF4w9nC0nq9CsPZTHyP,SOS,r&b,83,1,180853,91,32371787,2022,14,0,0,0,0,0,0,r&b,1,3.0142166666666665,1,high
+3cKnHNL40tqnmjXiv4FOlk,Never Be Yours,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Never Be Yours,r&b,64,0,196025,87,9293270,2024,14,0,0,0,0,0,0,,0,3.2670833333333333,1,high
+1dvqHhLNccePPBHq11TW7v,Fantasy (feat. Don Toliver),Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Red Moon In Venus,r&b,67,0,178274,87,9293270,2023,27,1,1,0,0,1,0,,0,2.971233333333333,1,high
+7BgyWwbbybJr2IbQoI1gzH,Stevie Doesn't Wonder,Hotel Ugly,35WVTyRnKAoaGExqgktVyb,Stevie Doesn't Wonder,r&b,69,0,164571,74,1041376,2021,21,0,0,0,0,0,0,,0,2.74285,1,high
+3PNaaKLGYYn1ULNZXyMuWM,Shut Up and Listen,Nicholas Bonnin,3nirCcAFDstMworUJd3OfN,Shut Up and Listen,r&b,67,1,243000,56,59194,2021,18,0,0,0,0,0,0,dark r&b,1,4.05,1,medium
+4n8cj1HW9hTL1AU5Hagq6K,Renegade,Aaryan Shah,4RzbexUO843fc5SLqKEQCr,The Arrival,r&b,75,0,222576,63,338483,2020,8,0,0,0,0,0,0,dark r&b,1,3.7096,1,medium
+19ItuvrZfTudwC6S5lkDH3,The Machine,Reed Wonder,7LaEPzqOfzvbRCBTpzRkQv,The Machine,r&b,74,0,192000,66,93098,2023,11,0,0,0,0,0,0,dark r&b,1,3.2,1,medium
+7uSGU4SrX7NyaqGTueSZf0,Death Is No More (Slowed),BLESSED MANE,4RsEAdLhbUy7j3zHWauPwF,Death Is No More (Slowed),r&b,66,0,172800,59,85814,2024,25,0,1,0,0,0,0,"phonk, drift phonk, witch house",3,2.88,1,medium
+3Q4gttWQ6hxqWOa3tHoTNi,Not You Too (feat. Chris Brown),Drake,3TVXtAsR1Inumwj472S9r4,Dark Lane Demo Tapes,r&b,82,1,269680,99,101820527,2020,31,1,1,0,0,1,0,rap,1,4.494666666666666,1,high
+6XHVuErjQ4XNm6nDPVCxVX,No Guidance (feat. Drake),Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Indigo,r&b,80,1,260640,91,27837078,2019,25,1,1,0,1,1,0,r&b,1,4.344,0,high
+3i6tlvYU1BSAM3yGQNemtM,DNA,LXNGVX,5IpS1TN1Crp8Ym4zjiIrtK,DNA,r&b,69,0,88740,72,606592,2023,3,0,0,0,0,0,0,"phonk, brazilian phonk",2,1.479,1,high
+3u9RHP8IpKPZh7bKHw83Ci,TEST DRIVE,Joji,3MZsBdqDrRTJihTHQrO6Dq,BALLADS 1,r&b,63,1,179423,80,10377563,2018,10,0,0,0,0,0,0,,0,2.9903833333333334,0,high
+3aSWXU6owkZeVhh94XxEWO,30 For 30 (with Kendrick Lamar),SZA,7tYKF4w9nC0nq9CsPZTHyP,SOS Deluxe: LANA,r&b,78,1,278277,91,32371787,2024,31,0,1,0,0,0,0,r&b,1,4.63795,1,high
+1De425SCFJULIHbcmeebUw,LET THE WORLD BURN,Chris Grey,0F3maSKfGGVtfATaAyeyPG,LET THE WORLD BURN,r&b,75,0,163290,73,872487,2024,18,0,0,0,0,0,0,dark r&b,1,2.7215,1,high
+19xg284tQrdnm4zZGnajs0,Faz de Chicote,Lyu,56zHTpLLVZ6otn4eInVwJf,Faz de Chicote,r&b,67,1,150569,54,17559,2024,14,0,0,0,0,0,0,"phonk, brazilian phonk",2,2.5094833333333333,1,medium
+4YsnwsPURRSvprBHBY1BCd,Disillusioned (with serpentwithfeet),Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,NEVER ENOUGH,alternative,71,1,241232,87,10619360,2023,36,0,1,0,0,0,0,,0,4.020533333333334,1,high
+4ylj6KTRlC25nhizGTlFPA,the alternative,Lyn Lapid,4pfy05cNNTacuOQ6SiSu4v,to love in the 21st century,alternative,49,0,183693,61,794614,2023,15,0,0,1,0,0,0,,0,3.06155,1,medium
+0PfurdlOZRYJ6pkrvHOkUh,Blue,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Red Moon In Venus,alternative,56,0,192611,87,9293270,2023,4,0,0,0,0,0,0,,0,3.210183333333333,1,high
+14qNHvX8h6HoynFuV0RxWS,Far Away (feat. A$AP Rocky),Yebba,1ooV8YZC1KbpEcrmI8WH0F,Dawn,alternative,66,1,199426,75,736453,2021,27,1,1,1,0,1,0,,0,3.3237666666666668,1,high
+4iGf7FQ9COSPGJ1QwOyUaI,2 Much,Qendresa,6FnMmUQSUGpOE3P9QePPqI,Londra,alternative,64,0,200000,58,63704,2024,6,0,0,0,0,0,0,alternative r&b,1,3.3333333333333335,1,medium
+6ObrgpMG4oDRavKdfIZFyx,High Hopes (feat. Omar Apollo),Joji,3MZsBdqDrRTJihTHQrO6Dq,Nectar,alternative,54,1,182400,80,10377563,2020,30,1,1,0,0,1,0,,0,3.04,1,high
+4ZTC6KvnQxloiwmT0Yhypy,Life Will Be,Cleo Sol,3ETLPQkcEd7z4k3IbZmXMq,Gold,alternative,69,0,198200,68,983565,2023,12,0,0,0,0,0,0,"neo soul, alternative r&b, uk r&b",3,3.3033333333333332,1,medium
+0TrtQY1GaxehOsttX2x3gF,Normal People (feat. rei brown),Joji,3MZsBdqDrRTJihTHQrO6Dq,Nectar,alternative,53,0,166883,80,10377563,2020,31,1,1,0,0,1,0,,0,2.7813833333333333,1,high
+1UNEuG9DYOWiikf00ayr52,Love Me Not,Ravyn Lenae,5RTLRtXjbXI2lSXc6jxlAz,Love Me Not / Love Is Blind,alternative,86,0,213466,81,786224,2024,11,0,0,0,1,0,0,"alternative r&b, indie soul",2,3.5577666666666667,1,high
+1p3RpKfSJQcVTEwrQWr8q7,SLIDE,Chase Atlantic,7cYEt1pqMgXJdq00hAwVpT,BEAUTY IN DEATH,alternative,63,1,235720,83,10298531,2021,5,0,0,0,0,0,0,,0,3.9286666666666665,1,high
+0S7lkKStHgfgjgwSFOvRNA,The Craving - single version,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,The Craving,alternative,59,0,173866,87,25671506,2024,28,0,0,0,0,0,0,,0,2.8977666666666666,1,high
+6ERSCeGFBSwvHCvBjwrmwE,Take Me First,Bad Omens,3Ri4H12KFyu98LMjSoij5V,THE DEATH OF PEACE OF MIND,alternative,63,0,199685,77,1902106,2022,13,0,0,0,0,0,0,metalcore,1,3.3280833333333333,1,high
+0b83L1ToHRiwlpmUAjiCHc,Valentina,Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,NEVER ENOUGH,alternative,71,0,154531,87,10619360,2023,9,0,0,0,0,0,0,,0,2.5755166666666667,1,high
+2c2tlXfEmLgUNvxngIi1qL,DEAD MAN WALKING,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,WASTELAND,alternative,71,1,247079,84,7788665,2022,16,0,0,0,0,0,0,r&b,1,4.117983333333333,1,high
+0bkTdkWwGk3OGFX0afD3Wj,Mystery Lady,Masego,3ycxRkcZ67ALN3GQJ57Vig,Studying Abroad: Extended Stay,alternative,70,0,228453,72,1565579,2020,12,0,0,0,0,0,0,,0,3.80755,1,high
+6XuvR6CAfIggnWzqtL0Vez,En El Próximo Big Bang,Wuicho kun,5WXiEvcwEw6bgiPBg7Eo2E,En El Próximo Big Bang,indie,65,0,183243,56,98966,2024,22,0,0,0,0,0,0,latin folk,1,3.05405,1,medium
+1rT3ZQcsqcdjBnR5AcaubL,vivo si me exiges,LATIN MAFIA,6XTGKOV9jceQ6f67lnhpbF,TODOS LOS DÍAS TODO EL DÍA,indie,64,1,186320,78,1730826,2024,17,0,0,0,0,0,0,latin r&b,1,3.1053333333333333,1,high
+7EkWXAI1wn8Ii883ecd9xr,Freaks,Surf Curse,1gl0S9pS0Zw0qfa14rDD3D,Freaks,indie,83,0,147062,72,1708161,2021,6,0,0,0,0,0,0,indie,1,2.451033333333333,1,high
+3qhlB30KknSejmIvZZLjOD,End of Beginning,Djo,5p9HO3XC5P3BLxJs5Mtrhm,DECIDE,indie,89,0,159245,78,2234563,2022,16,0,0,0,0,0,0,,0,2.6540833333333333,1,high
+0InIeZW4P6VO7dUGRM4AKH,Sienna,The Marías,2sSGPbdZJkaSE2AbcGOACx,Submarine,indie,86,0,224840,87,3483361,2024,6,0,0,0,0,0,0,bedroom pop,1,3.747333333333333,1,high
+5ruzrDWcT0vuJIOMW7gMnW,The Adults Are Talking,The Strokes,0epOFNiUfyON9EYx7Tpr6V,The New Abnormal,indie,79,0,309053,78,6401421,2020,22,0,0,0,0,0,0,"garage rock, indie rock, alternative rock",3,5.150883333333334,1,high
+61OJxhoY3Ix50rYVKo8zRK,Can I Call You Tonight?,Dayglow,6eJa3zG1QZLRB3xgRuyxbm,Fuzzybrain,indie,75,0,278769,65,1060215,2019,23,0,0,0,0,0,0,indie rock,1,4.64615,0,medium
+4UcnP64mbjBbjSDgSv5YYT,pero me estoy acabando.,LATIN MAFIA,6XTGKOV9jceQ6f67lnhpbF,TODOS LOS DÍAS TODO EL DÍA,indie,65,1,166666,78,1730826,2024,23,0,0,0,0,0,0,latin r&b,1,2.7777666666666665,1,high
+0FTmksd2dxiE5e3rWyJXs6,back to friends,sombr,4G9NDjRyZFDlJKMRL8hx3S,back to friends,indie,94,0,199032,90,2377060,2024,15,0,0,0,0,0,0,,0,3.3172,1,high
+5O612Iau2nHDR3yv8jAFXs,Respiro (Cap. 8),Siddhartha,2aqFBHOpM9uIgBpUsdq09x,MEMORIA FUTURO,indie,62,0,221390,71,1551436,2020,16,0,1,0,0,0,0,"mexican indie, latin indie, latin alternative, rock en español",4,3.6898333333333335,1,high
+0phzfJn8NeT1LkbqfV2peI,Lejos de Ti,The Marías,2sSGPbdZJkaSE2AbcGOACx,Submarine,indie,78,0,179520,87,3483361,2024,11,0,0,0,0,0,0,bedroom pop,1,2.992,1,high
+3SAga35lAPYdjj3qyfEsCF,Feel It (From “Invincible”),d4vd,5y8tKLUfMvliMe8IKamR32,Feel It (From “Invincible”),indie,82,0,157974,84,4569094,2024,27,0,1,0,0,0,0,,0,2.6329,1,high
+1YlXMOHqJVWzFaaQLeekPt,"contenta,",Ed Maverick,3JSSjGYcIkgsrz7892CelT,eduardo,indie,67,0,226280,72,3770822,2021,9,0,0,0,0,0,0,"mexican indie, latin folk",2,3.771333333333333,1,high
+1ShRHPAiiIrh0arZbSFmx1,Heavy,The Marías,2sSGPbdZJkaSE2AbcGOACx,CINEMA,indie,83,0,253213,87,3483361,2021,5,0,0,0,0,0,0,bedroom pop,1,4.2202166666666665,1,high
+3siwsiaEoU4Kuuc9WKMUy5,No One Noticed,The Marías,2sSGPbdZJkaSE2AbcGOACx,Submarine,indie,89,0,236906,87,3483361,2024,14,0,0,0,0,0,0,bedroom pop,1,3.9484333333333335,1,high
