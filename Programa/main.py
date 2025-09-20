@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = os.urandom(64)
 
 client_id = "f36b47d37468476caad14fc8d8ceb074"
-client_secret = "165835c2e70e4195bae2eadd00c65fed"
+client_secret = ""
 redirect_uri = "http://127.0.0.1:5000/callback"
 scope = "user-read-recently-played"
 
