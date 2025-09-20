@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = os.urandom(64)
 
 client_id = "f36b47d37468476caad14fc8d8ceb074"  
-client_secret = "165835c2e70e4195bae2eadd00c65fed"  ##NECESARIO ENCRIPTAR EL SECRETO POR SEGURIDAD
+client_secret = ""  ##NECESARIO ENCRIPTAR EL SECRETO POR SEGURIDAD
 redirect_uri = "http://127.0.0.1:5000/callback"
 
 scope = "user-read-recently-played user-top-read"
@@ -401,3 +401,4 @@ def get_top_artists():
 #    - The app will run on http://127.0.0.1:5000/
 if __name__ == "__main__":
     app.run(debug=True)
+
