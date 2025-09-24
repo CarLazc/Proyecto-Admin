@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intra Music</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <!--colores propuestos para fondo #8891ff #585BE3-->
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #8891ff; color: #ffffff; }
+        .font-heading { font-family: 'Outfit', sans-serif; }
+        .glass-sphere { background: linear-gradient(10deg, rgba(111, 115, 231, 0.91), rgba(42, 35, 203, 0.91)); filter: blur(2px); border-radius: 50%; }
+        .text-collage { font-weight: 900; line-height: 1; text-transform: uppercase; color: rgba(255, 255, 255, 0.9); }
+        .hidden { display: none; }
+    </style>
+</head>
+<body class="overflow-x-hidden">
+    <div id="contenedor-login" class="min-h-screen flex flex-col items-center justify-center text-center p-4 hidden">
+        <h1 class="font-heading text-6xl md:text-8xl font-black tracking-tighter">INTRA MUSIC</h1>
+        <p class="text-xl mt-4 mb-8 text-gray-300">Mira tus estadísticas personales de Spotify.</p>
+        <a href="http://127.0.0.1:5000" class="bg-green-500 text-white font-bold py-4 px-10 rounded-full shadow-lg hover:bg-green-600 transition-all transform hover:scale-105 text-lg">
+            Iniciar sesión con Spotify
+        </a>
+    </div>
+
+    <div id="contenido-principal" class="max-w-7xl mx-auto hidden">
+        <header class="absolute top-0 left-0 right-0 z-10 p-4">
+            <div class="mx-auto max-w-5xl">
+                <nav class="flex justify-center md:justify-end items-center space-x-6 md:space-x-8 text-sm font-semibold tracking-wider">
+                    <a href="#" class="hover:text-indigo-700 transition-colors">CANCIONES</a>
+                    <a href="#" class="hover:text-indigo-700 transition-colors">ARTISTAS</a>
+                    <a href="#" class="hover:text-indigo-700 transition-colors bg-white/10 px-4 py-2 rounded-full">RESUMEN PERSONAL</a>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <section class="relative h-[60vh] md:h-[80vh] flex items-center justify-center overflow-hidden">
+                <div class="absolute inset-0">
+                    <div class="absolute top-[-20%] left-[-15%] w-96 h-96 glass-sphere opacity-70"></div>
+                    <div class="absolute bottom-[-10%] right-[-10%] w-[28rem] h-[28rem] glass-sphere opacity-50"></div>
+                    <div class="absolute top-[15%] right-[20%] w-32 h-32 glass-sphere opacity-60 animate-pulse"></div>
+                </div>
+                <div class="text-center z-0 relative">
+                    <h1 class="font-heading text-7xl md:text-9xl font-black tracking-tighter">INTRA</h1>
+                    <h1 class="font-heading text-7xl md:text-9x1 font-black tracking-tighter">MUSIC</h1>
+                    <button class="mt-8 bg-white text-indigo-600 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-indigo-100 transition-all transform hover:scale-105">
+                        ESCUCHADO RECIENTEMENTE
+                    </button>
+                </div>
+            </section>
+
+            <section 
+                class="py-16 md:py-24 relative"
+                style="background-image: url('static/fondo-seccion-artistas.jpg'); background-size: cover; background-position: center;">
+                <div class="absolute inset-0 bg-cyan-200/20"></div>
+                <div class="relative z-10 px-6 mx-auto max-w-5xl">
+                    <h2 class="text-center font-heading text-4xl md:text-5xl font-bold mb-12 text-blue-900">Top 3 Artistas</h2>
+                    <div id="contenedor-top-artistas" class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center min-h-[20rem] items-center justify-center">
+                        <p class="col-span-3 text-gray-400">Cargando tu top de artistas...</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="py-16 md:py-24 relative bg-indigo-900">
+                <div class="px-6 mx-auto max-w-4xl">
+                    <h2 class="text-center font-heading text-4xl md:text-5xl font-bold mb-12">Top 10 Canciones más escuchadas</h2>
+                    <div id="contenedor-top-canciones" class="grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-6 min-h-[10rem]">
+                        <p class="col-span-2 text-gray-400 text-center">Cargando tu top de canciones...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Seccion solo para hacer visible la parte decorativa que no supe hacer aun -->
+            <section class="py-16 md:py-24 relative bg-cyan-100">
+                <div class="px-6 mx-auto max-w-4xl">
+                    <h2 class="text-center font-heading text-4xl md:text-5xl font-bold mb-12 text-indigo-800">Seccion de imagenes</h2>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-6 min-h-[10rem]">
+                        <p class="col-span-2 text-gray-400 text-center">Cargando tu top de canciones...</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="py-16 py-24 relative bg-indigo-600">
+                <div class="px-6 mx-auto max-w-5xl flex items-center gap-12">
+                    <div class="w-1/2">
+                        <img src="static/fondo-seccion-artistas.jpg" alt="Imagen descriptiva del género" class="w-full max-w-md mx-auto rounded-2xl shadow-xl">
+                    </div>
+                <div class="w-1/2">
+                        <h2 class="font-heading text-4xl md:text-5xl font-bold mb-4 text-cyan-50">GÉNERO PARA TI</h2>
+                        <p class="text-cyan-50">Basado en tu historial este género musical es perfecto para ti y podria ser tu nueva obsesión.</p>
+                        <p class="text -cyan-50">¡Descubrelo, es hora de expandir tus horizontes!</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const URL_BASE_API = 'http://127.0.0.1:5000';
+        const contenedorLogin = document.getElementById('contenedor-login');
+        const contenidoPrincipal = document.getElementById('contenido-principal');
+        async function fetchConCredenciales(url) {
+            const respuesta = await fetch(url, { credentials: 'include' });
+            if (respuesta.status === 401) {
+                mostrarLogin();
+                throw new Error('Autorización necesaria');
+            }
+            if (!respuesta.ok) {
+                throw new Error('La respuesta de la red no fue correcta');
+            }
+            return respuesta.json();
+        }
+        
+        function mostrarLogin() {
+            contenidoPrincipal.classList.add('hidden');
+            contenedorLogin.classList.remove('hidden');
+        }
+
+        function mostrarPanel() {
+            contenedorLogin.classList.add('hidden');
+            contenidoPrincipal.classList.remove('hidden');
+        }
+
+        async function cargarTopArtistas() {
+            try {
+                const artistas = await fetchConCredenciales(`${URL_BASE_API}/api/top-artists`);
+                const contenedor = document.getElementById('contenedor-top-artistas');
+                contenedor.innerHTML = ''; 
+                artistas.forEach(artista => {
+                    const tarjetaArtistaHTML = `
+                        <div class="flex flex-col items-center">
+                            <div class="relative w-52 h-52">
+                                <img src="${artista.imageUrl}" alt="${artista.name}" class="w-full h-full object-cover ${artista.shape} shadow-lg">
+                            </div>
+                            <h3 class="font-bold text-2xl mt-6 mb-2 text-blue-900">${artista.name}</h3>
+                            <p class="text-sm text-blue-900 max-w-xs">${artista.description}</p>
+                        </div>
+                    `;
+                    contenedor.innerHTML += tarjetaArtistaHTML;
+                });
+            } catch (error) {
+                console.error('No se pudo cargar el top de artistas:', error.message);
+                if (error.message !== 'Autorización necesaria') {
+                    const contenedor = document.getElementById('contenedor-top-artistas');
+                    contenedor.innerHTML = `<p class="text-red-400 col-span-3">No se encontró información de artistas.</p>`;
+                }
+            }
+        }
+
+        async function cargarTopCanciones() {
+             try {
+                const canciones = await fetchConCredenciales(`${URL_BASE_API}/api/top-tracks`);
+                const contenedor = document.getElementById('contenedor-top-canciones');
+                contenedor.innerHTML = '';
+                canciones.forEach(cancion => {
+                    const cancionHTML = `
+                        <div class="border-b border-white/20 py-3">
+                            <p class="font-semibold">${cancion.name}</p>
+                            <p class="text-sm text-gray-400">${cancion.artist}</p>
+                        </div>
+                    `;
+                    contenedor.innerHTML += cancionHTML;
+                });
+            } catch (error) {
+                console.error('No se encontraron las canciones:', error.message);
+                 if (error.message !== 'Autorización necesaria') {
+                    const contenedor = document.getElementById('contenedor-top-canciones');
+                    contenedor.innerHTML = `<p class="text-red-400 col-span-2 text-center">No se pudo cargar la información.</p>`;
+                }
+            }
+        }
+
+        async function cargarCancionesRecientes(){
+            try {
+            const canciones = await fetchConCredenciales(`${URL_BASE_API}/api/recently-played`);
+            const contenedor = document.getElementById('contenedor-canciones-recientes');
+            contenedor.innerHTML = '';
+            canciones.forEach(cancion => {
+                    const cancionHTML = `
+                        <div class="border-b border-white/20 py-3">
+                            <p class="font-semibold">${cancion.name}</p>
+                            <p class="text-sm text-gray-400">${cancion.artist}</p>
+                        </div>
+                    `;
+                    contenedor.innerHTML += cancionHTML;
+                });
+            } catch (error) {
+                console.error('No se encontraron las canciones:', error.message);
+                 if (error.message !== 'Autorización necesaria') {
+                    const contenedor = document.getElementById('contenedor-top-canciones');
+                    contenedor.innerHTML = `<p class="text-red-400 col-span-2 text-center">No se pudo cargar la información.</p>`;
+                }
+            }
+        }
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                await Promise.all([cargarTopArtistas(), cargarTopCanciones()]);
+                mostrarPanel();
+            } catch (error) {
+                console.log("Autorización necesaria, mostrando la página de inicio de sesión.");
+            }
+        });
+    </script>
+</body>
+</html>
