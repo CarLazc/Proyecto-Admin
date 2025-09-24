@@ -10,7 +10,7 @@ app.config['SECRET_KEY'] = os.urandom(64)
 CORS(app, supports_credentials=True)
 client_id = "f36b47d37468476caad14fc8d8ceb074"
 client_secret = "165835c2e70e4195bae2eadd00c65fed"
-FRONTEND_URL = "http://127.0.0.1:5500/intra_frontend.html"
+FRONTEND_URL = "http://127.0.0.1:5500/Pagina_web_Actualizacion23-09/intra_frontend.html" #De ser necesario cambiar el link al url que muestra al correr el frontend
 redirect_uri = "http://127.0.0.1:5000/callback"
 scope = "user-read-recently-played user-top-read"
 
@@ -81,4 +81,5 @@ def get_recently_played():
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
+
 
